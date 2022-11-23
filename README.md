@@ -1,1 +1,1 @@
-# -tku_libs_submodule
+# tku_libs_submodule
